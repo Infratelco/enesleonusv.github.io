@@ -39,7 +39,7 @@ paginate = 10
 [[menu.main]]
     name       = "Vacancies"
     identifier = "menu.vacancies"
-    url        = "/img/facilities2.png"
+    url        = "/public/img/facilities2.png"
     weight     = 5
 
 [[menu.main]]
