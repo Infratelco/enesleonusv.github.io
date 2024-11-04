@@ -12,7 +12,6 @@ Among others, some of our main research topics are:
 * Predictive diagnosis of early diabetic neuroretinopathy and glaucoma usinga non-evoked modality of electroretinogram, contrast sensitivity, and metabolomics
 * Epidemiology of ocular diseases in the state of Guanajuato/Bajío. 
 
-\
 
 # Principal investigators
 
