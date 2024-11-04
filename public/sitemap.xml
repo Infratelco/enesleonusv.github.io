@@ -87,8 +87,6 @@
   </url><url>
     <loc>http://localhost:1313/Infratelco/infratelco.github.io/faq/</loc>
   </url><url>
-    <loc>http://localhost:1313/Infratelco/infratelco.github.io/members/</loc>
-  </url><url>
     <loc>http://localhost:1313/Infratelco/infratelco.github.io/tags/ipsum/</loc>
   </url><url>
     <loc>http://localhost:1313/Infratelco/infratelco.github.io/journals/</loc>
@@ -96,5 +94,7 @@
     <loc>http://localhost:1313/Infratelco/infratelco.github.io/categories/lorem/</loc>
   </url><url>
     <loc>http://localhost:1313/Infratelco/infratelco.github.io/blog/1/01/01/migrate-from-jekyll/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Infratelco/infratelco.github.io/members/</loc>
   </url>
 </urlset>

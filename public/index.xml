@@ -48,7 +48,7 @@
       <link>http://localhost:1313/Infratelco/infratelco.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Infratelco/infratelco.github.io/contact/</guid>
-      <description>We are here to help you Are you curious about something? Are you interested in our programs or research activities? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&#xA;Please feel free to contact us, we would be glad to aid you.</description>
+      <description>We are here to help you Are you curious about something? Are you interested in our programs or research activities?&#xA;Please feel free to contact us, we would be glad to aid you.</description>
     </item>
     <item>
       <title>FAQ</title>
@@ -56,13 +56,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Infratelco/infratelco.github.io/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&#xA;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    <item>
-      <title>Group Members</title>
-      <link>http://localhost:1313/Infratelco/infratelco.github.io/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Infratelco/infratelco.github.io/members/</guid>
-      <description>Our purpose as the Research group in optometry and visual health of the ENES León Unit - UNAM we are Researchers and clinicians united to prevent and reduce type 2 diabetes mellitus and its ocular complications (in the Mexican Bajío).&#xA;Colons can be used to align columns.&#xA;Principal investigators DR. LUIS F. HERNANDEZ ZIMBRON As the head of research in optometry at ENES, UNAM, León, my focus lies on studying visual alterations in neurodegenerative diseases.</description>
     </item>
     <item>
       <title>Journal Articles</title>
@@ -77,6 +70,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Infratelco/infratelco.github.io/blog/1/01/01/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/&#xD;▾ images/&#xD;logo.png&#xD;should become&#xA;▾ &amp;lt;root&amp;gt;/&#xD;▾ static/&#xD;▾ images/&#xD;logo.png&#xD;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    <item>
+      <title>Research group in optometry and visual health of the ENES León Unit - UNAM</title>
+      <link>http://localhost:1313/Infratelco/infratelco.github.io/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Infratelco/infratelco.github.io/members/</guid>
+      <description>&amp;ldquo;Researchers and clinicians united to prevent and reduce type 2 diabetes, mellitus and its ocular complications (in the Mexican Bajío)&amp;rdquo;. Among others, some of our main research topics are:&#xA;Predictive diagnosis of early diabetic neuroretinopathy and glaucoma usinga non-evoked modality of electroretinogram, contrast sensitivity, and metabolomics Epidemiology of ocular diseases in the state of Guanajuato/Bajío. \&#xA;Principal investigators DR. LUIS F. HERNANDEZ ZIMBRON As the head of research in optometry at ENES, UNAM, León, my focus lies on studying visual alterations in neurodegenerative diseases.</description>
     </item>
   </channel>
 </rss>
