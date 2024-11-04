@@ -60,19 +60,19 @@ paginate = 10
 
 [[menu.main]]
     name       = "Servicio Social"
-    url        = ""
+    url        = "https://enes.unam.mx/servicio-social.html"
     weight     = 1
     parent     = "section.vacancies"
 
 [[menu.main]]
     name       = "Practicas Profesionales"
-    url        = ""
+    url        = "https://enes.unam.mx/practicascampo.html"
     weight     = 2
     parent     = "section.vacancies"
 
 [[menu.main]]
     name       = "Undergraduate Thesis"
-    url        = ""
+    url        = "https://enes.unam.mx/titulacion.html"
     weight     = 3
     parent     = "section.vacancies"
 
