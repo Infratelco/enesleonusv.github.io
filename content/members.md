@@ -22,7 +22,7 @@ As the head of research in optometry at ENES, UNAM, León, my focus lies on stud
 
  <!-- ![ORCID](https://static-00.iconduck.com/assets.00/orcid-icon-256x256-o0c2anpv.png) -->
 
- ![DR. LUIS F. HERNANDEZ ZIMBRON](https://i.ibb.co/xF6G56B/White-Simple-Real-Estate-Business-Email-Signature.png)
+ ![DR. LUIS F. HERNANDEZ ZIMBRON](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/LuisCard2.png)
 
 [ORCID Link](https://orcid.org/0000-0002-5098-367X) , 
 [GOOGLE SCHOLAR Link](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Luis+Fernando+Hernandez+zimbron&btnG=&oq=luis)
@@ -39,7 +39,7 @@ Lineas de investigación
 * Uso de las señales basales del ERG para diagnóstico predictivo del edema macular diabético
 * Valoración de la sensibilidad al contraste como método de predicción y seguimiento de la neuroretinopatía diabética temprana
 
-![DRA. STÉPHANIE C. THÉBAULT](https://i.ibb.co/ZVJXnJh/Modern-Doctor-Email-Signature.png)
+![DRA. STÉPHANIE C. THÉBAULT](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/StephanieCard1.png)
 
 [ORCID Link](https://orcid.org/0000-0003-3233-282X) , 
 [GOOGLE SCHOLAR Link](https://scholar.google.com/citations?user=KVRo_80AAAAJ&hl=fr),
@@ -54,7 +54,7 @@ Lineas de investigación
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit tellus, condimentum id enim sed, elementum efficitur eros. Maecenas auctor ac est id facilisis. Pellentesque eu iaculis orci. Nullam cursus eget turpis quis posuere. Vestibulum commodo risus at consectetur posuere. Sed non aliquet arcu, sit amet porta lorem. Morbi suscipit mauris nec velit iaculis, et luctus eros facilisis. Nam nulla erat, aliquet in lacus sit amet, viverra tincidunt mauris. Nunc vehicula lobortis elit, non gravida magna sollicitudin ac.
 
-![ANA LAURA MARTINEZ HERNANDEZ](img/testimonials/ana-laura-martinez-hernandez.jpeg)
+![ANA LAURA MARTINEZ HERNANDEZ](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/AnaCard1.png)
 
 ---
 
@@ -74,7 +74,7 @@ Además, soy profesora de la Escuela Nacional de Estudios Superiores Unidad Leó
 
 Trabajo también en consulta privada desde 2003 a la fecha, atender la salud visual de la población Mexicana es parte fundamental de mis labores.
 
-![GEORGINA SOTO CRUZ](https://drive.google.com/file/d/1MX0JEPntJoD83BRQV7pLCblDMMDf9dgJ/view?usp=drive_link)
+![GEORGINA SOTO CRUZ](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/GeorginaCard1.png)
 
 ---
 
@@ -84,7 +84,7 @@ Trabajo también en consulta privada desde 2003 a la fecha, atender la salud vis
 
 Juan Manuel Zavala-Rodríguez is a multifaceted professional with a solid academic background and an outstanding career in the field of optometry and medical research, who combines clinical skills with a firm commitment to the advancement of knowledge in his area of specialization. Zavala-Rodriguez is currently carrying out research using electrophysiological tests and omics strategies for the predictive diagnosis of metabolic diseases as part of a postdoctoral stay with a group of prominent researchers from the National Autonomous University of Mexico.
 
-![Dr. Manuel Zavala R](img/testimonials/manuel-zavala-r.webp)
+![Dr. Manuel Zavala R](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/ManuelCard1.png)
 
 ---
 
@@ -92,9 +92,9 @@ Juan Manuel Zavala-Rodríguez is a multifaceted professional with a solid academ
 
 Biotechnology Engineer from the Universidad Politécnica del Estado de Morelos; Master's and Ph.D. in Chemical and Biological Sciences from the Escuela Nacional de Ciencias Biológicas of the IPN. Currently, he is a postdoctoral researcher and adjunct professor in the Optometry degree program at ENES León, UNAM. His scientific experience focuses on preclinical pharmacology of natural products, specifically on the search for active compounds of medicinal interest for the treatment of ocular conditions.
 
-ORCID: https://orcid.org/0000-0001-9633-6542
+![Dr. Anuar Salazar G](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/AnuarCard1.png)
 
-![Dr. Anuar Salazar G](img/testimonials/anuar-salazar-g.webp)
+[ORCID Link](https://orcid.org/0000-0001-9633-6542)
 
 ---
 
@@ -104,8 +104,8 @@ ORCID: https://orcid.org/0000-0001-9633-6542
 
 Hammurabi Flores, a student of Optometry at the ENES UNAM León, Coordinator of Optometry at Medical Brigadiers of the Bajío, current Municipal  Youth Award winner in Health and Prevention, and president of Lentes con Causa (Glasses with a Cause), a project dedicated to spreading awareness  and providing visual health services to vulnerable populations.
 
-More info: https://www.instagram.com/p/Cv09liRO_-A/?igsh=MWlqdHRxYjdkMzY2ZA%3D%3D"
+[MORE INFO HERE](https://www.instagram.com/p/Cv09liRO_-A/?igsh=MWlqdHRxYjdkMzY2ZA%3D%3D)
 
-![Hammurabi Flores](img/testimonials/hammurabi-flores.webp)
+![Hammurabi Flores](https://raw.githubusercontent.com/Infratelco/infratelco.github.io/refs/heads/main/public/img/testimonials/HammurabiCard1.png)
 
 ---
